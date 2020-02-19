@@ -11,5 +11,11 @@
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "mongodb": "*"
   }
 }
